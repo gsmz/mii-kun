@@ -1,0 +1,10 @@
+nakanosakaue 0 0
+sinjuku 1,5,19 1
+yotsuya 2,6 2
+akasaka 3,7,12,15 3
+ginza 4,8 4
+tokyo 9 5
+komagome 10,18 6
+ichigaya 14,11 7
+roppongi-icho-me 16,13 8
+meguro 17 9
